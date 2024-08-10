@@ -1,3 +1,4 @@
+--model employees
 with
     products as (
         select

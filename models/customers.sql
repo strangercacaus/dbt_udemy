@@ -1,3 +1,4 @@
+-- customer model
 with
     original as (
         select
